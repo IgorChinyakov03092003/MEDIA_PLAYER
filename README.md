@@ -7,4 +7,4 @@
 <h3><li>Voronov Alexander  Developer/Tester</li></h3>
  
 <h1 align="center"></h1>
-|<p align="center"><img src="https://github.com/IgorChinyakov03092003/MEDIA_PLAYER/Medea-main/Images/MedeaHome.png" width="1147.21" height="520"/></p>
+|<p align="center"><img src="MedeaHome.png" width="1147.21" height="520"/></p>
